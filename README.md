@@ -69,7 +69,7 @@ No keys. No signatures. No quantum attack surface.
 ## Core Benefits
 
 ### 🛡️ Post-Quantum by Design
-Not retrofitted — built from scratch for the quantum era. No asymmetric cryptography means Shor's Algorithm has nothing to target.
+Not retrofitted  built from scratch for the quantum era. No asymmetric cryptography means Shor's Algorithm has nothing to target.
 
 ### 🔑 No Keys, No Risk
 No seed phrase to phish. No private key to extract. No single point of cryptographic failure.
